@@ -1,0 +1,23 @@
+{
+    "name": "js_trader_utils",
+    "version": "0.0.1",
+    "description": "Functions for financial algorithmic trading",
+    "main": "",
+    "scripts": {
+        "test": "jest --config jest.config.json --coverage",
+        "lint": "./node_modules/eslint-watch/bin/esw '**/*.js' -w"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^23.3.0",
+        "eslint": "^5.1.0",
+        "eslint-plugin-import": "^2.13.0",
+        "eslint-watch": "^4.0.1"
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.7",
+        "tracer": "^0.8.11",
+        "shortid": "*"
+    }
+}
