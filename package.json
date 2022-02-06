@@ -2,7 +2,7 @@
     "name": "js_trader_utils",
     "version": "0.0.1",
     "description": "Functions for financial algorithmic trading",
-    "main": "",
+    "main": "lib/index.js",
     "scripts": {
         "test": "jest --config jest.config.json --coverage",
         "lint": "./node_modules/eslint-watch/bin/esw '**/*.js' -w"
