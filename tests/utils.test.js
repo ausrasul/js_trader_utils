@@ -37,7 +37,7 @@ describe('Utils functionality', () => {
 	var Logger
 
 	beforeEach(()=>{
-		utils = require('../src/utils')
+		utils = require('../lib/index')
 		fs = require('fs')
 		child_process = require('child_process')
 		readlineSync = require('readline-sync')
