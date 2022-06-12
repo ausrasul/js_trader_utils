@@ -10,14 +10,14 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "jest": "^23.3.0",
-        "eslint": "^5.1.0",
-        "eslint-plugin-import": "^2.13.0",
-        "eslint-watch": "^4.0.1"
+        "jest": "^28.0.0",
+        "eslint": "^8.17.0",
+        "eslint-plugin-import": "^2.26.0",
+        "eslint-watch": "^8.0.0"
     },
     "dependencies": {
-        "readline-sync": "^1.4.7",
-        "tracer": "^0.8.11",
+        "readline-sync": "^1.4.10",
+        "tracer": "^1.1.5",
         "shortid": "*"
     }
 }

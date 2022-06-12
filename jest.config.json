@@ -1,6 +1,6 @@
 {
     "roots": [
-        "src",
+        "lib",
         "tests",
         "__mocks__"
     ]
